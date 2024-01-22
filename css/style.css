@@ -7,7 +7,7 @@
 @import url("components/button.css");
 @import url("components/banner.css");
 @import url("components/card.css");
-@import url("components/signup.css");
+@import url("components/form-container.css")
 
 /* General style rules for fonts and colors */
 body {
